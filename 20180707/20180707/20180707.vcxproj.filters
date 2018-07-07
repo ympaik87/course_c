@@ -18,5 +18,23 @@
     <ClCompile Include="main5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="전처리기연습.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적할당크기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
