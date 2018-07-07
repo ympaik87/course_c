@@ -24,29 +24,19 @@
     <ClCompile Include="main2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="array_example.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="main3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="main4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main5.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="main6.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="main7.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="main8.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="main9.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="main10.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myinc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
